@@ -40,8 +40,6 @@ namespace SwapWeapon
                 {
                     Debug.LogError("Reflection failed: can't find backing fields.");
                 }
-
-
             }
         }
     }
